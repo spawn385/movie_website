@@ -31,7 +31,7 @@ def main():
                    "https://goo.gl/etXiRz",
                    "https://www.youtube.com/watch?v=31_OEhX30sY")
 
-    movie_list = [terminator2, desperate_measures, the_other_guys,
+    movie_list = [terminator2, desperate_measures, the_other_guys, 
                   the_naked_gun2, superbad, hot_fuzz, eraser]
     fresh_tomatoes.open_movies_page(movie_list)
 
